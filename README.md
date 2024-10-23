@@ -1,0 +1,2 @@
+# Predicting-Academic-Success-and-Reducing-Dropout-Rates-in-Higher-Education-Using-Machine-Learning
+Project on Predicting Students Dropout &amp; Academic Success dataset using Big Data Analytical skills (Hadoop, Hive, Spark) and ML Techniques. Used ML algorithms ensuring scalability, performance and validating model performance, fine-tuning hyperparameters and EDA to gain key insights from data analysis.
